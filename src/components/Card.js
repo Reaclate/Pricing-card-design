@@ -73,7 +73,7 @@ export default function Card() {
 
       <div className="row">
         <div className="col-md-12">
-          <p className="text-dark">Design and Credit <a href="https://codepen.io/FlorinPop17/full//RwwKXpB">FlorinPop</a></p>
+          <p className="text-dark">Design and Credit <a href="https://www.florin-pop.com/blog/2019/09/100-days-100-projects/">FlorinPop</a></p>
           <p className="text-dark"> Developed By <a href="https://github.com/tinsaye-simeneh"> Tinsaye Simeneh </a></p>
       </div>
       </div>
